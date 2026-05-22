@@ -1,0 +1,7 @@
+Copyright (c) 2026 Atharv Ghandat
+All rights reserved.
+
+This source code is private and confidential.
+Unauthorized copying, distribution, or use of this
+code, in whole or in part, is strictly prohibited
+without prior written permission from the author.
